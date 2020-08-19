@@ -1,0 +1,154 @@
+﻿body
+{
+    font-size: 10px;
+}
+
+h
+{
+    font-size: 40px;
+    text-transform: uppercase;
+    line-height: 150px;
+}
+h1
+{
+    font-size: 20px;
+    line-height: 30px;
+    width: 1000px;
+    text-transform: uppercase;    
+}
+
+h1 a
+{
+    font-size: 14px;
+    text-decoration: none;
+    color: Blue;
+}
+
+table
+{
+    font-size: 22px;
+}
+
+/*SECTION 1*/
+table.section1
+{
+}
+
+table td.section1_Q
+{
+    background-color: #BBEEFF;
+    padding: 8px 5px 8px 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+table td.section1_A
+{
+    line-height: 28px;
+    padding: 15px 12px 15px 12px;
+}
+
+table td.section1_C
+{
+    padding: 0px 5px 60px 5px;
+}
+/*SECTION 1*/
+/*SECTION 2*/
+table.section2
+{
+}
+
+table td.section2_Q
+{
+    background-color: #99FF99;
+    padding: 8px 5px 8px 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+table td.section2_A
+{
+    line-height: 28px;
+    padding: 15px 12px 75px 12px;
+}
+/*SECTION 2*/
+/*SECTION 3*/
+table.section3
+{
+}
+
+table td.section3_Q
+{
+    background-color: #FFFF99;
+    padding: 8px 5px 8px 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+table td.section3_A
+{
+    line-height: 28px;
+    padding: 15px 12px 75px 12px;
+}
+/*SECTION 3*/
+/*SECTION 4*/
+table.section4
+{
+}
+
+table td.section4_Q
+{
+    background-color: #FF99FF;
+    padding: 8px 5px 8px 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+table td.section4_A
+{
+    line-height: 28px;
+    padding: 15px 12px 15px 12px;
+}
+
+table td.section4_C
+{
+    padding: 0px 5px 60px 5px;
+}
+/*SECTION 4*/
+/*SECTION 5*/
+table.section5
+{
+}
+
+table td.section5_Q
+{
+    background-color: #FFCC33;
+    padding: 8px 5px 8px 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+table td.section5_A
+{
+    line-height: 28px;
+    padding: 15px 12px 75px 12px;
+}
+/*SECTION 5*/
+/*SECTION 6*/
+table.section6
+{
+}
+
+table td.section6_Q
+{
+    background-color: #FFBBBB;
+    padding: 8px 5px 8px 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+table td.section6_C
+{
+    padding: 0px 5px 60px 5px;
+}
+/*SECTION 6*/
